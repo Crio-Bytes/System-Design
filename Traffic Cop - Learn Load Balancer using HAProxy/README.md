@@ -45,12 +45,10 @@ Before starting, make sure you are logged in as a user with sudo privileges on y
              ├─52978 /usr/sbin/haproxy -Ws -f /etc/haproxy/haproxy.cfg -p run/>
              └─52979 /usr/sbin/haproxy -Ws -f /etc/haproxy/haproxy.cfg -p /run/>
     ```
-2. Install `dnsutils` package if not present to get information from DNS name servers.
-    >$ sudo apt -y install dnsutils
+2. Install `dnsutils` package if not present to get information from DNS name servers using apt .
 
 3. Python 3.6 is recommended to be installed in the system.
-4. Python package `flask` is required to be able to build application service.
-    >$ pip3 install flask
+4. Python package `flask` is required to be able to build application service using pip.
 
 
 # Activities
@@ -142,10 +140,6 @@ In this micro-Byte, we will simulate the scenario by launching flask server in s
  - Launch a shell and run the flask server file in following syntax:-
     >$ python3 app.py < Unused port number >
     
-    For eg:- 
-    ``` 
-    $ python3 app.py 8080
-    ```
 - Launch 3-4 servers with different port numbers in each seperate terminal and make sure not to close the terminal otherwise it will kill the server process.
 
 The output will look something like this for each individual process in respective shell with different port numbers:
@@ -188,7 +182,7 @@ You might notice that the response is served from different application servers.
 
 > **Note:-** Kill `Ctrl+C` the active HAproxy command and enter it again after making any changes to the custom configuration file.
 
-## #Activity 3.2
+## Activity 3.2
 ---
 - Change ` server server01 localhost:8080 ` to ` server server01 localhost:8080 weight 4 ` in the configuration file.
 - Similarly append `" weight < Any number > ( For now only add 1 ) " ` to all the backend application nodes.
@@ -221,18 +215,16 @@ How to make load balancer aware about active status of the server? Nice Question
 ### Activity 3.4
 ----
 
-To make HAProxy aware about the failure or re-spawn of the server, we need to add a `check` keyword.
- Replace 
- ``` 
-server server01 localhost:8080 weight 4 
-```
-with 
-```
-server server01 localhost:8080 weight 4 check
-```
-to each of the application nodes configuration.
+To make HAProxy aware about the failure or re-spawn of the server, we need to append a specific keyword to enable health check of the application servers.
 
-Now HAproxy will keep on polling to the servers to check whether it is alive or not and add or remove the server IP from the round robin list.
+<details>
+<summary>Hint</summary>
+> Start by bombarding google "How to perform health `check` in HAProxy?".
+ </details>
+Once you find that keyword, append it to each of the application server nodes in the configuration.
+
+
+Now HAproxy will keep on polling to the servers to `check` whether it is alive or not and add or remove the server IP from the round robin list.
 
 ---
 ## Activity 4- Enable live monitoring and statistics 
@@ -243,13 +235,13 @@ Now HAproxy will keep on polling to the servers to check whether it is alive or 
 - Monitoring load balancer metrics provides you with insight into how your system is performing.
 - The load balancer can tell you how many clients are accessing your services and how long it’s taking your service to respond to these requests.
 - By monitoring these metrics, you will be able to immediately determine if there is an operational problem that affects your web services. 
-- When there is a critical production issue, you need to be aware and respond immediately to contain the damage and reduce impact on customers. Since the load balancer is always checking the health of a service, it can inform you of potential issues in your service before they overwhelm your system.
-- If you just released a new version of your service and the error count suddenly increases, you can perform a rollback before your customers know there’s an issue.
-- Additionally, this information can help you quantify customer growth and gives you a baseline or benchmark for system performance. It enables you to monitor traffic patterns and provides you with insight into the time of day your system is used and respond to spikes in demand so you can provision capacity appropriately.  
+- Since the load balancer is always checking the health of a service, it can inform you of potential issues in your service before they overwhelm your system.
+
+- It enables you to monitor traffic patterns and provides you with insight into the time of day your system is used and respond to spikes in demand so you can provision capacity appropriately.  
 
 >Comment out the lines after `#> listen- combine both backend and frontend (Optional)` to enable statistics page.
 -  Head to the browser and type `localhost:83` to view stats page.
-- Check around the stats page by making requests to localhost:3000 or killing and re-spawning the server. The realtime data will be reflected on the stats page.
+- Play around with the stats page by making requests to localhost:3000 or killing and re-spawning the server. The realtime data will be reflected on the stats page.
 
 ## Mega-Challenge:-
 > Try out load balancing with actual cloud instances of server from AWS, GCP whichever you prefer.
