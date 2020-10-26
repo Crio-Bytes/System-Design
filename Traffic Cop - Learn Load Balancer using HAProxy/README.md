@@ -219,7 +219,9 @@ To make HAProxy aware about the failure or re-spawn of the server, we need to ap
 
 <details>
 <summary>Hint</summary>
-> Start by bombarding google "How to perform health `check` in HAProxy?".
+
+Start by bombarding google "How to perform health `check` in HAProxy?".
+
  </details>
 Once you find that keyword, append it to each of the application server nodes in the configuration.
 
