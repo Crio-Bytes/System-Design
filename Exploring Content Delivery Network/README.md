@@ -98,7 +98,7 @@ It's not compulsory but you can access the learning material for Chrome Develope
 
 4. Open new tab and change the location to any country using VPN extension( in my case `Browsec VPN`) and open the video in this tab with the same setup explained in `Activity-1`
 
-    >Note: Don't close the previous tab, let be open.
+    >Note: Don't close the previous tab, let it be open.
 
 5. Repeat the steps from 1 to 4 and store all the domain URLs and mark them with the respective country you collected from.
 
