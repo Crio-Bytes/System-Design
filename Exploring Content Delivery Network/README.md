@@ -32,7 +32,7 @@ It's not compulsory but you can access the learning material for Chrome Develope
 
     2. [Chrome Developer Tools : Part 2](https://learn.crio.do/home/me/ME_DEVELOPER_TOOLS_II)
 
-- Any VPN Chrome extension (preferably BrowSec VPN ) must be installed.
+- Any VPN Chrome extension (preferably [BrowSec VPN](https://browsec.com/) ) must be installed.
 > Don't be scared. We will be needing VPN for rightful purpose.
 - A network tools like `curl` and `nslookup` must be installed in the machine.
 ---
@@ -44,7 +44,7 @@ It's not compulsory but you can access the learning material for Chrome Develope
 - Before the commencement of this activity, try to find answer of the following question. 
 
     > ### Yet Another Random Question:
-    >  How did Tiktok succeed to gather massive userbase in short amount of time ? (We know they serve cringy contents XD which activates the neurons of many people but how did they delivered it?)
+    >  How did Tiktok succeed to gather massive userbase in short amount of time ? ( We know they serve cringy contents XD which activates the neurons of many people but how did they deliver it? )
 
 - Below is the video link of the widely popular channel World Health Organization (WHO):-
 
@@ -102,7 +102,7 @@ It's not compulsory but you can access the learning material for Chrome Develope
 
 5. Repeat the steps from 1 to 4 and store all the domain URLs and mark them with the respective country you collected from.
 
-    If you carried out the above tasks successfully, select the correct option.
+    If you carried out the above tasks successfully, select the correct option your collected data indicates.
 
     - [ ] Same domain URL for each and every country.
     - [ ] Different URL for each and every country.
@@ -110,9 +110,7 @@ It's not compulsory but you can access the learning material for Chrome Develope
     <details>
      <summary>Click to see the correct answer</summary>
 
-     [ ] Same domain URL for each and every country.
-
-     [x] Different URL for each and every country.
+     Different URL for each and every country.
     
     </details>
 
@@ -129,7 +127,7 @@ It's not compulsory but you can access the learning material for Chrome Develope
     > ### Yet Another Random Question: 
     > How To Find Out the complete information about a Domain name? 
 
-- Get the IP address of all the collected domain URLs and note it down respective to each country. There is a linux command who does it for you :)
+- Get the IP address of all the collected domain URLs and note it down respective to each country. There is a linux command which does it for you :)
 
     <details>
      <summary>Hint</summary>
@@ -154,7 +152,7 @@ Now it's time to finally make some sense of the data which we have collected so 
 
 - You might be surprised with the location of the CDN servers all around the globe serving content and improving the user experience with their services.
 
-    What are the benefits of using A **CDN**? Good Question!
+    What are the benefits of using a **CDN**? Good Question!
 
     Let me give you an answer in 3 words.
 
@@ -180,7 +178,7 @@ Data integrity and privacy concerns are addressed
 
 > Wanna Try? Sure
 > 1. Login to Crio.Do 
-> 2. Start System Design Micro-Experience.
+> 2. Start [System Design Micro-Experience](https://learn.crio.do/home/me/ME_QPREP_SD).
 > 3. Complete till module 3
 > 4. Start module 4 which is dedicated to practical hand's on CDN.
 > 5. Congrats! for completing the Micro Experience.
