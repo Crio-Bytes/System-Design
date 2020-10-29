@@ -16,7 +16,13 @@ The basic study of system design is the understanding of component parts and the
     <img src = "https://avatars0.githubusercontent.com/u/51743602?s=400&u=85100497dbe54e233947aee4b82a5cc085bc2cc9&v=4" height = "50px">&nbsp;&nbsp;&nbsp;<b>MicroByte Stock</b>&nbsp;&nbsp;&nbsp;<img src = "https://avatars0.githubusercontent.com/u/51743602?s=400&u=85100497dbe54e233947aee4b82a5cc085bc2cc9&v=4" height = "50px">
 </div>
 
+![Crio.Do Logo](https://avatars0.githubusercontent.com/u/51743602?s=400&u=85100497dbe54e233947aee4b82a5cc085bc2cc9&v=4#thumbnail)
 
+img[src*="#thumbnail"]{
+
+​	height : 50px;
+
+}
 
 ________________________________
 
