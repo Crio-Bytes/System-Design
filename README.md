@@ -21,7 +21,7 @@ The basic study of system design is the understanding of component parts and the
 <!-- MicroByte Showcase section starts -->
 
 <details>
-  <summary><b>Your pocket (cache)</b></summary>
+  <summary><b>Traffic Cop - Learn Load Balancer using HAProxy</b></summary>
 
 
   ```
@@ -45,7 +45,7 @@ The basic study of system design is the understanding of component parts and the
 <!-- MicroByte Showcase section starts -->
 
 <details>
-  <summary><b>Your pocket (cache)</b></summary>
+  <summary><b>Exploring Content Delivery Network</b></summary>
 
 
   ```
@@ -69,7 +69,7 @@ The basic study of system design is the understanding of component parts and the
 <!-- MicroByte Showcase section starts -->
 
 <details>
-  <summary><b>Your pocket (cache)</b></summary>
+  <summary><b>Exploring Caching</b></summary>
 
 
   ```
