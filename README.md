@@ -16,7 +16,7 @@ The basic study of system design is the understanding of component parts and the
     <img src = "https://raw.githubusercontent.com/Crio-Bytes/Demo-Repo/master/Maintainer%20Resources/img/micro-bytes-header.png">
 </div>
 
-________________________________
+<hr />
 
 <details>
     <summary>Your pocket (cache)</summary>
