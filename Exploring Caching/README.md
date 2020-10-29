@@ -39,11 +39,15 @@ Your money can be stored in three places: (Click on arrow to reveal)
     <summary>Your pocket (cache)</summary>
 
 ```
-The easiest and quickest way to get access to your money is if you already have money in your pockets. If this is the case, you can pay and immediately receive your item. 
+The easiest and quickest way to get access to your money is if you already
+have money in your pockets. If this is the case, you can pay and immediately
+ receive your item. 
 
-However, your pockets do not have much space for money and any money found in your pockets is removed when you wash your pants. 
+However, your pockets do not have much space for money and any money found 
+ in your pockets is removed when you wash your pants. 
 
-Cache works in the same way in that it is the quickest way to store small amounts of data but is cleared frequently.
+Cache works in the same way in that it is the quickest way to store small 
+ amounts of data but is cleared frequently.
 ```
   </details>
 
@@ -51,9 +55,11 @@ Cache works in the same way in that it is the quickest way to store small amount
     <summary>Your wallet (RAM)</summary>
 
 ```
-While a wallet allows you to store more money (generally, enough money to do shopping), it also takes more effort to look for this money. 
+While a wallet allows you to store more money (generally, enough money to do
+ shopping), it also takes more effort to look for this money. 
 
-In the same way, RAM generally allows you to store the data you will need at any time but does not allow you to permanently store your data.
+In the same way, RAM generally allows you to store the data you will need at
+ any time but does not allow you to permanently store your data.
 ```
   </details>
 
@@ -61,11 +67,14 @@ In the same way, RAM generally allows you to store the data you will need at any
     <summary>Your bank account (Disk Storage)</summary>
 
 ```
-The slowest way to get access to your money is to go to the bank, but it allows you to store much larger amounts of money.
+The slowest way to get access to your money is to go to the bank, but it allows
+ you to store much larger amounts of money.
 
-As a result, whenever you make a big purchase (such as a house or a car), you will need to go to the bank. 
+As a result, whenever you make a big purchase (such as a house or a car), you 
+will need to go to the bank. 
 
-In a similar way, your hard drive is much slower than either RAM or your cache, but it also allows you to permanently store thousands of times more data
+In a similar way, your hard drive is much slower than either RAM or your cache,
+ but it also allows you to permanently store thousands of times more data.
 ```
 
   </details>
@@ -79,7 +88,7 @@ But before that try to solve the Micro challenge below:-
 > Micro-Challenge:- List down 2-3 scenarios like discussed above which describes the relationship between computer memory hierarchy and daily activities in real life.
 
 # Activities
-## Activity 1 - Coding Challenge [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
+## Activity 1 - Coding Challenge [LRU Cache](https://leetcode.com/problems/lru-cache/)
 
 ---
 
@@ -132,9 +141,11 @@ Now listen to me carefully!
     <summary>Hint</summary>
 
     ```
-        1. The shirts are arranged in linear fashion back to back (Probably a linear data structure)
+        1. The shirts are arranged in linear fashion back to back 
+        (Probably a linear data structure)
 
-        2. The man can pick up any shirt from the rack. It means it has the knowledge of all the shirts located in the rack. ( O(1) Search capability)
+        2. The man can pick up any shirt from the rack. It means it has
+         the knowledge of all the shirts located in the rack. ( O(1) Search capability)
     ```
     </details>
 
