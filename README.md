@@ -13,7 +13,7 @@ If the broader topic of [product development](https://en.wikipedia.org/wiki/Prod
 The basic study of system design is the understanding of component parts and their subsequent interaction with one another.
 
 <div align = "center">
-    <img src = "https://avatars0.githubusercontent.com/u/51743602?s=400&u=85100497dbe54e233947aee4b82a5cc085bc2cc9&v=4" height = "50px">&nbsp;&nbsp;&nbsp;<font size = "5"><b>MicroByte Stock</b></font>&nbsp;&nbsp;&nbsp;<img src = "https://avatars0.githubusercontent.com/u/51743602?s=400&u=85100497dbe54e233947aee4b82a5cc085bc2cc9&v=4" height = "50px">
+    <img src = "https://raw.githubusercontent.com/Crio-Bytes/Demo-Repo/master/Maintainer%20Resources/img/micro-bytes-header.png">
 </div>
 
 ________________________________
