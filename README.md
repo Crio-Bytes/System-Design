@@ -25,15 +25,12 @@ The basic study of system design is the understanding of component parts and the
 
 
   ```
-  The easiest and quickest way to get access to your money is if you already
-  have money in your pockets. If this is the case, you can pay and immediately
-   receive your item. 
+  How does the Google manages to respond to our query within seconds? Good question! Most users of the web are unaware of the sheer scale of the search engine responsible for bringing content across the Internet. The boom in the digital revolution has resulted in increased usage of the Internet with Google facing the heat of the increasing demand in terms of million requests per second to serve their loyal customers.
 
-  However, your pockets do not have much space for money and any money found 
-   in your pockets is removed when you wash your pants. 
+  Sites like Google which bring in high-volume traffic may inadvertently be faced with frequent server upgrades, so that page speed and, in turn, usability, doesn’t suffer for their loyal customers. Often, however, simple hardware upgrades aren’t enough to handle the vast traffic that some sites draw.
 
-  Cache works in the same way in that it is the quickest way to store small 
-   amounts of data but is cleared frequently.
+  So how do Google ensures that it won’t burst into figurative flames as page visits skyrocket? The concept of Load Balancing comes into picture.
+
   ```
 
 </details>
@@ -49,15 +46,10 @@ The basic study of system design is the understanding of component parts and the
 
 
   ```
-  The easiest and quickest way to get access to your money is if you already
-  have money in your pockets. If this is the case, you can pay and immediately
-   receive your item. 
+  Entertainment content has always had humans hooked from the very beginnings of mankind. We all love to bingwatch web series like Breaking Bad, Money Heist, Stranger things, The Boys, Scam 1992 etc on respective platforms like Netflix, Amazon Prime, Sony Liv,etc. Did it ever occured in our mind how the OTT platorm are able to provide their content so blazingly fast without any interruption across the globe ?
 
-  However, your pockets do not have much space for money and any money found 
-   in your pockets is removed when you wash your pants. 
+  The Internet is a constantly-changing mechanism, and new forms of data and content are constantly being created. Soon after it was made commercially available, the problem of pushing massive amounts of data to the end user as fast as possible had to be solved. **Enter CDNs.**
 
-  Cache works in the same way in that it is the quickest way to store small 
-   amounts of data but is cleared frequently.
   ```
 
 </details>
@@ -73,15 +65,16 @@ The basic study of system design is the understanding of component parts and the
 
 
   ```
-  The easiest and quickest way to get access to your money is if you already
-  have money in your pockets. If this is the case, you can pay and immediately
-   receive your item. 
+  When hearing the word **Cache** the first thing that comes into normal people’s mind is money, but what all the Computer Geeks hear and understand is a place where computer stores recently used information.
 
-  However, your pockets do not have much space for money and any money found 
-   in your pockets is removed when you wash your pants. 
+  To respect the sentiments of the Computer Geeks, let's define it in a standard course of action given below:-
 
-  Cache works in the same way in that it is the quickest way to store small 
-   amounts of data but is cleared frequently.
+  > *Caching* refers to the use of a faster medium to prevent a slower medium from slowing down the performance of a computer.
+
+  Certain components, like the CPU, have a small amount of physical cache memory built into them so that they can quickly access the information they need, rather than waiting for the information to be sent to them through the busses.
+
+  In this microbyte, we will commence by a small Case Study of Caching in real life so the laymen can relate to it, learn LRU Algorithm through visual representation ( *talk less show more* ) methodology, and explore the application of cache in computer system like Linux Page Cache and DNS Cache. 
+
   ```
 
 </details>
