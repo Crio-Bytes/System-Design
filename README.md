@@ -18,6 +18,8 @@ The basic study of system design is the understanding of component parts and the
 
 <hr />
 
+<!-- MicroByte Showcase section starts -->
+
 <details>
   <summary><b>Your pocket (cache)</b></summary>
 
@@ -37,6 +39,56 @@ The basic study of system design is the understanding of component parts and the
 </details>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Yakshit Ravindra Jain
+
+<!-- MicroByte Showcase section ends -->
+
+<!-- MicroByte Showcase section starts -->
+
+<details>
+  <summary><b>Your pocket (cache)</b></summary>
+
+
+  ```
+  The easiest and quickest way to get access to your money is if you already
+  have money in your pockets. If this is the case, you can pay and immediately
+   receive your item. 
+
+  However, your pockets do not have much space for money and any money found 
+   in your pockets is removed when you wash your pants. 
+
+  Cache works in the same way in that it is the quickest way to store small 
+   amounts of data but is cleared frequently.
+  ```
+
+</details>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Yakshit Ravindra Jain
+
+<!-- MicroByte Showcase section ends -->
+
+<!-- MicroByte Showcase section starts -->
+
+<details>
+  <summary><b>Your pocket (cache)</b></summary>
+
+
+  ```
+  The easiest and quickest way to get access to your money is if you already
+  have money in your pockets. If this is the case, you can pay and immediately
+   receive your item. 
+
+  However, your pockets do not have much space for money and any money found 
+   in your pockets is removed when you wash your pants. 
+
+  Cache works in the same way in that it is the quickest way to store small 
+   amounts of data but is cleared frequently.
+  ```
+
+</details>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Yakshit Ravindra Jain
+
+<!-- MicroByte Showcase section ends -->
 
 ## Contributors ✨
 
