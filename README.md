@@ -19,7 +19,7 @@ The basic study of system design is the understanding of component parts and the
 <hr />
 
 <details>
-    <summary><font size ="3"><b>Your pocket (cache)</b></font></summary>
+    <summary><font size ="4"><b>Your pocket (cache)</b></font></summary>
 
 
 ```
