@@ -14,7 +14,7 @@ The basic study of system design is the understanding of component parts and the
 
 
 
-<center><img src = "https://avatars0.githubusercontent.com/u/51743602?s=400&u=85100497dbe54e233947aee4b82a5cc085bc2cc9&v=4" style = "border-radius : 50%; height: 50px">&nbsp;&nbsp;&nbsp;<b>MicroByte Stock</b>&nbsp;&nbsp;&nbsp;<img src = "https://avatars0.githubusercontent.com/u/51743602?s=400&u=85100497dbe54e233947aee4b82a5cc085bc2cc9&v=4" style = "border-radius : 50%; height: 50px"></center>
+<center><img src = "https://avatars0.githubusercontent.com/u/51743602?s=400&u=85100497dbe54e233947aee4b82a5cc085bc2cc9&v=4" style = "border-radius : 50%; height: 50px">&nbsp;&nbsp;&nbsp;<font size = "4"><b>MicroByte Stock</b></font>&nbsp;&nbsp;&nbsp;<img src = "https://avatars0.githubusercontent.com/u/51743602?s=400&u=85100497dbe54e233947aee4b82a5cc085bc2cc9&v=4" style = "border-radius : 50%; height: 50px"></center>
 
 ________________________________
 
