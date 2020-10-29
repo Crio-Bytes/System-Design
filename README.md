@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Introduction
@@ -23,6 +23,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://ak-shaw-portfolio.netlify.app"><img src="https://avatars0.githubusercontent.com/u/51538194?v=4" width="100px;" alt=""/><br /><sub><b>Ayush Kumar Shaw</b></sub></a><br /><a href="https://github.com/Crio-Bytes/System-Design/commits?author=Ak-Shaw" title="Code">💻</a> <a href="https://github.com/Crio-Bytes/System-Design/commits?author=Ak-Shaw" title="Documentation">📖</a> <a href="#eventOrganizing-Ak-Shaw" title="Event Organizing">📋</a> <a href="#ideas-Ak-Shaw" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-Ak-Shaw" title="Maintenance">🚧</a> <a href="https://github.com/Crio-Bytes/System-Design/pulls?q=is%3Apr+reviewed-by%3AAk-Shaw" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://crio.do/"><img src="https://avatars0.githubusercontent.com/u/51743602?v=4" width="100px;" alt=""/><br /><sub><b>Crio.Do</b></sub></a><br /><a href="#eventOrganizing-CrioDo" title="Event Organizing">📋</a></td>
     <td align="center"><a href="https://github.com/jnana-cetana"><img src="https://avatars1.githubusercontent.com/u/72009286?v=4" width="100px;" alt=""/><br /><sub><b>Yakshit Ravindra Jain</b></sub></a><br /><a href="https://github.com/Crio-Bytes/System-Design/commits?author=jnana-cetana" title="Code">💻</a> <a href="#content-jnana-cetana" title="Content">🖋</a> <a href="https://github.com/Crio-Bytes/System-Design/commits?author=jnana-cetana" title="Documentation">📖</a> <a href="#ideas-jnana-cetana" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/amoghrajesh"><img src="https://avatars2.githubusercontent.com/u/35884252?v=4" width="100px;" alt=""/><br /><sub><b>Amogh Rajesh Desai</b></sub></a><br /><a href="https://github.com/Crio-Bytes/System-Design/pulls?q=is%3Apr+reviewed-by%3Aamoghrajesh" title="Reviewed Pull Requests">👀</a> <a href="#eventOrganizing-amoghrajesh" title="Event Organizing">📋</a></td>
   </tr>
 </table>
 
