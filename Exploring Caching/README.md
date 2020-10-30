@@ -8,7 +8,7 @@ To respect the sentiments of the Computer Geeks, let's define it in a standard c
 
 Certain components, like the CPU, have a small amount of physical cache memory built into them so that they can quickly access the information they need, rather than waiting for the information to be sent to them through the busses.
 
-In this microbyte, we will commence by a small Case Study of Caching in real life so the laymen can relate to it, learn LRU Algorithm through visual representation ( *talk less show more* ) methodology, and explore the application of cache in computer system like Linux Page Cache and DNS Cache. 
+In this microbyte, we will commence by a small Case Study of Caching in real life so the laymen can relate to it, learn LRU Algorithm through visual representation ( *talk less show more* ) methodology, and explore the application of cache in computer systems like Linux Page Cache and DNS Cache. 
 
 **Let's dive in!!**
 
