@@ -89,7 +89,7 @@ The basic study of system design is the understanding of component parts and the
   To respect the sentiments of the Computer Geeks, let's define it in a standard 
   course of action given below:-
 
-  > *Caching* refers to the use of a faster medium to prevent a slower medium from 
+  *Caching* refers to the use of a faster medium to prevent a slower medium from 
   slowing down the performance of a computer.
 
   Certain components, like the CPU, have a small amount of physical cache memory 
