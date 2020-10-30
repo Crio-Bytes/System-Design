@@ -99,7 +99,7 @@ The basic study of system design is the understanding of component parts and the
   In this microbyte, we will commence by a small Case Study of Caching in real life 
   so the laymen can relate to it, learn LRU Algorithm through visual representation 
   (talk less show more) methodology, and explore the application of cache in 
-  computer system like Linux Page Cache and DNS Cache. 
+  computer systems like Linux Page Cache and DNS Cache. 
 
   ```
 
