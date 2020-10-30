@@ -25,7 +25,7 @@ The basic study of system design is the understanding of component parts and the
 
 
   ```
-  How does the Google manages to respond to our query within seconds? Good question! 
+  How does Google manage to respond to our query within seconds? Good question! 
   Most users of the web are unaware of the sheer scale of the search engine 
   responsible for bringing content across the Internet. The boom in the digital 
   revolution has resulted in increased usage of the Internet with Google facing the 
