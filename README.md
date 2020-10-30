@@ -65,7 +65,7 @@ The basic study of system design is the understanding of component parts and the
   The Internet is a constantly-changing mechanism, and new forms of data and content 
   are constantly being created. Soon after it was made commercially available, the 
   problem of pushing massive amounts of data to the end user as fast as possible had 
-  to be solved. **Enter CDNs.**
+  to be solved. Enter CDNs.
 
   ```
 
