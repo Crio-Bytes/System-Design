@@ -56,7 +56,7 @@ The basic study of system design is the understanding of component parts and the
 
   ```
   Entertainment content has always had humans hooked from the very beginnings of 
-  mankind. We all love to bingwatch web series like Breaking Bad, Money Heist, 
+  mankind. We all love to binge watch web series like Breaking Bad, Money Heist, 
   Stranger things, The Boys, Scam 1992 etc on respective platforms like Netflix, 
   Amazon Prime, Sony Liv,etc. Did it ever occured in our mind how the OTT platorm are 
   able to provide their content so blazingly fast without any interruption across the 
