@@ -31,7 +31,6 @@ The basic study of system design is the understanding of component parts and the
   enough to handle the vast traffic that some sites draw. So how do Google ensures 
   that it won’t burst into figurative flames as page visits skyrocket? 
   The concept of Load Balancing comes into picture.
-
   ```
 
 </details>
@@ -51,7 +50,6 @@ The basic study of system design is the understanding of component parts and the
   are constantly being created. Soon after it was made commercially available, the 
   problem of pushing massive amounts of data to the end user as fast as possible had 
   to be solved. Enter CDNs.
-
   ```
 
 </details>
@@ -71,7 +69,6 @@ The basic study of system design is the understanding of component parts and the
   so the laymen can relate to it, learn LRU Algorithm through visual representation 
   (talk less show more) methodology, and explore the application of cache in 
   computer systems like Linux Page Cache and DNS Cache. 
-
   ```
 
 </details>
