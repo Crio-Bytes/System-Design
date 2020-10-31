@@ -149,7 +149,7 @@ Now create HTML page, go inside directory `/var/www/html` in your linux instance
 Create a HTML file.
 
 > Syntax:
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -160,13 +160,11 @@ img {
 </style>
 </head>
 <body>
-
 <img src="html5.png"  width="128" height="128">
-
 <img src="html5.png" width="128" height="128">
-
 </body>
-</html>
+</html> 
+```
 
 **Activity 6 Task:**
 
