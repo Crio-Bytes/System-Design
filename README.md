@@ -80,6 +80,28 @@ The basic study of system design is the understanding of component parts and the
 
 <!-- MicroByte Showcase section ends -->
 
+<!-- MicroByte Showcase section starts -->
+
+<details>
+  <summary><b>AWS High Availability Architecture</b></summary>
+
+
+  ```
+  Highly available systems include the capability to recover from unexpected events 
+  in the shortest time possible. By moving the processes to backup components, these 
+  systems minimize downtime or eliminate it. This usually requires constant 
+  maintenance, monitoring, and initial in-depth tests to confirm that there are no 
+  weak points. If you want to deploy a website and want your website to be fast, 
+  secure and available all the time even in the time of some failure in the network 
+  then High Availabilty Architecture comes in play.
+  ```
+
+</details>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Nitesh Thapliyal ([**@Nitesh-thapliyal**](https://github.com/Nitesh-thapliyal))
+
+<!-- MicroByte Showcase section ends -->
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
