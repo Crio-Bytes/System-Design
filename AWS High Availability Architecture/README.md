@@ -29,7 +29,7 @@ I hope you will learn by doing the Activities and will perform Task given in the
 # Prerequisites
 
 - You should have AWS account, you can create [AWS free tier account](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc).
-- Install [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html) in Windows.
+- Install AWS CLI in [Windows](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html) or in [Mac](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html).
 - Configure [AWS CLI with IAM user](https://bauddhik-geek.blogspot.com/2020/10/working-in-aws-using-aws-cli-with-help.html).
 - It is preferred that you are aware [HTML basics](https://learn.crio.do/home/me/ME_HTML_CSS) and [Linux](https://learn.crio.do/home/me/ME_LINUX1)
 
@@ -150,7 +150,7 @@ Create a HTML file.
 
 **Activity 6 Task:**
 
-Create Html page using HTML or you can create your own website using HTML/CSS and insert images in your HTML file.
+Create basic Html page using HTML or you can create your own website using HTML/CSS and insert images in your HTML file.
 
 ### Activity 7: Create S3 Bucket
 
