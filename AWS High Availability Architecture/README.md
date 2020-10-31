@@ -36,7 +36,7 @@ I hope you will learn by doing the Activities and will perform Task given in the
 The Activities that we are going to perform on AWS are free in `AWS free tier plan`but you should know the limitation of free tier plan so, go to the [link](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) and check limitation.
 
 ### Activity 1: Launch an Instance using AWS CLI
-First configure the AWS CLI in your [window cmd](https://www.online-tech-tips.com/computer-tips/how-to-use-dos-command-prompt/) by providing Access Key, Secret Key and region name.
+First configure the AWS CLI in your terminal or window cmd, here i am using [window cmd](https://www.online-tech-tips.com/computer-tips/how-to-use-dos-command-prompt/). To configure provide Access Key, Secret Key and region name.
 
 If you are facing problem in configuring the AWS CLI then refer to the link provided in the `Prerequisites`
 
@@ -55,7 +55,7 @@ Now to launch an Instance, we require:
 
 **Activity 1 Task:**
 
-Try to find out the elements require to launch the instance using `aws ec2 describe `command in your cmd.
+Try to find out the elements require to launch the instance using `aws ec2 describe `command in your terminal or cmd.
 
 > Refer to `Images/Activity 1/Task_help.png`
 
@@ -128,7 +128,7 @@ To save the partition press `w`.
 
 > Refer to `Images/Activity 5/Activity5a.png` 
 
-Now we need to format the partion.
+Now we need to format the partition.
 
 To format the partition use the command `mkfs.ext4 device_name`
 
