@@ -29,7 +29,7 @@ I hope you will learn by doing the Activities and will perform Task given in the
 # Prerequisites
 
 - You should have AWS account, you can create [AWS free tier account](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc).
-- Install AWS CLI in [Windows](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html) or in [Mac](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html).
+- Install AWS CLI in [Windows](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html),[Mac](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html) or in [Linux](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html).
 - Configure [AWS CLI with IAM user](https://bauddhik-geek.blogspot.com/2020/10/working-in-aws-using-aws-cli-with-help.html).
 - It is preferred that you are aware [HTML basics](https://learn.crio.do/home/me/ME_HTML_CSS) and [Linux](https://learn.crio.do/home/me/ME_LINUX1)
 
@@ -165,10 +165,11 @@ img {
 </body>
 </html> 
 ```
+Now add your own content to the syntax above and create your own html webpage.
 
 **Activity 6 Task:**
 
-Create basic Html page using HTML or you can create your own website using HTML/CSS and insert images in your HTML file.
+Create your own Html webpage using HTML or you can create your own website using HTML/CSS and insert images in your HTML file.
 
 ### Activity 7: Create S3 Bucket
 
@@ -220,7 +221,7 @@ Now open the webpage using the Ip address of instance and file name in your brow
 > Refer to `Images/Activity 9/Webpage.png`
 
 
-By performig all Activities you can deploy your website with `High availability`,`secure` your website and make your website `manageable`.
+By performing all Activities you can deploy your website with `High availability`,`secure` your website and make your website `manageable`.
 
 ## SUMMARY
 
