@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Introduction
@@ -115,6 +115,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://kevinpaulose05.github.io/"><img src="https://avatars3.githubusercontent.com/u/64629493?v=4" width="100px;" alt=""/><br /><sub><b>Kevin Paulose</b></sub></a><br /><a href="https://github.com/Crio-Bytes/System-Design/pulls?q=is%3Apr+reviewed-by%3AKevinpaulose05" title="Reviewed Pull Requests">👀</a> <a href="#eventOrganizing-Kevinpaulose05" title="Event Organizing">📋</a></td>
     <td align="center"><a href="https://www.youtube.com/channel/UC9eDh5ByrCT2WinIji5Qyig"><img src="https://avatars2.githubusercontent.com/u/62458868?v=4" width="100px;" alt=""/><br /><sub><b>Sudhanshu tiwari</b></sub></a><br /><a href="https://github.com/Crio-Bytes/System-Design/pulls?q=is%3Apr+reviewed-by%3Asudhanshutiwari264" title="Reviewed Pull Requests">👀</a> <a href="#eventOrganizing-sudhanshutiwari264" title="Event Organizing">📋</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/nitesh-thapliyal-4403a1135"><img src="https://avatars0.githubusercontent.com/u/53345517?v=4" width="100px;" alt=""/><br /><sub><b>Nitesh Thapliyal</b></sub></a><br /><a href="https://github.com/Crio-Bytes/System-Design/commits?author=Nitesh-thapliyal" title="Code">💻</a> <a href="#content-Nitesh-thapliyal" title="Content">🖋</a> <a href="#ideas-Nitesh-thapliyal" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/Crio-Bytes/System-Design/commits?author=Nitesh-thapliyal" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/archithdwij"><img src="https://avatars1.githubusercontent.com/u/30730368?v=4" width="100px;" alt=""/><br /><sub><b>Archithdwij</b></sub></a><br /><a href="https://github.com/Crio-Bytes/System-Design/pulls?q=is%3Apr+reviewed-by%3Aarchithdwij" title="Reviewed Pull Requests">👀</a> <a href="#eventOrganizing-archithdwij" title="Event Organizing">📋</a></td>
   </tr>
 </table>
 
