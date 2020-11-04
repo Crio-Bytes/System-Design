@@ -12,13 +12,15 @@ If the broader topic of [product development](https://en.wikipedia.org/wiki/Prod
 
 The basic study of system design is the understanding of component parts and their subsequent interaction with one another.
 
+<!-- MicroByte Showcase section starts -->
+
 <div align = "center">
     <img src = "https://raw.githubusercontent.com/Crio-Bytes/Demo-Repo/master/Maintainer%20Resources/img/micro-bytes-header.png">
 </div>
 
 <hr />
 
-<!-- MicroByte Showcase section starts -->
+<!-- MicroByte Showcase sub-section starts -->
 
 <details>
   <summary><b>Traffic Cop - Learn Load Balancer using HAProxy</b></summary>
@@ -37,9 +39,9 @@ The basic study of system design is the understanding of component parts and the
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Yakshit Ravindra Jain ([**@jnana-cetana**](https://github.com/jnana-cetana))
 
-<!-- MicroByte Showcase section ends -->
+<!-- MicroByte Showcase sub-section ends -->
 
-<!-- MicroByte Showcase section starts -->
+<!-- MicroByte Showcase sub-section starts -->
 
 <details>
   <summary><b>Exploring Content Delivery Network</b></summary>
@@ -56,9 +58,9 @@ The basic study of system design is the understanding of component parts and the
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Yakshit Ravindra Jain ([**@jnana-cetana**](https://github.com/jnana-cetana))
 
-<!-- MicroByte Showcase section ends -->
+<!-- MicroByte Showcase sub-section ends -->
 
-<!-- MicroByte Showcase section starts -->
+<!-- MicroByte Showcase sub-section starts -->
 
 <details>
   <summary><b>Exploring Caching</b></summary>
@@ -75,9 +77,9 @@ The basic study of system design is the understanding of component parts and the
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Yakshit Ravindra Jain ([**@jnana-cetana**](https://github.com/jnana-cetana))
 
-<!-- MicroByte Showcase section ends -->
+<!-- MicroByte Showcase sub-section ends -->
 
-<!-- MicroByte Showcase section starts -->
+<!-- MicroByte Showcase sub-section starts -->
 
 <details>
   <summary><b>AWS High Availability Architecture</b></summary>
@@ -96,6 +98,8 @@ The basic study of system design is the understanding of component parts and the
 </details>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Nitesh Thapliyal ([**@Nitesh-thapliyal**](https://github.com/Nitesh-thapliyal))
+
+<!-- MicroByte Showcase sub-section ends -->
 
 <!-- MicroByte Showcase section ends -->
 
